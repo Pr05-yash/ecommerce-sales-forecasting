@@ -54,6 +54,6 @@ Edit
 
 ## Author
 Yash Prajapati  
-Email: yashprajapati.ds@gmail.com  
+Email: yashprajapati.tech@gmail.com  
 GitHub: https://github.com/Pr05-yash  
 LinkedIn: https://www.linkedin.com/in/prajapati-yash-0451aa286/
